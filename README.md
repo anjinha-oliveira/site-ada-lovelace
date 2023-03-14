@@ -1,3 +1,3 @@
 # site-ada-lovelace
-Primeiro contato com Front-End. 
-Site feito no curso da programaria sobre a vida e história de Ada Lovelace.
+Site construído para contar um pouco sobre a historia de Ada Lovelace
+
